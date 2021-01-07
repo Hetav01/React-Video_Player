@@ -1,3 +1,7 @@
+#### This is a simple video Player created using the YouTube Data API and React. 
+This project was part of the course i have undertaken on Udemy to learn the basics of React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
