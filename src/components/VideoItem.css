@@ -1,0 +1,15 @@
+.VideoItem {
+    display: inline-block !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.VideoItem img {
+    max-width: 180px;
+}
+
+.content {
+    margin-top: 10px;
+    display: block;
+    margin-bottom: 5px;
+}
